@@ -13,14 +13,18 @@ I'm Aitor from Spain. After finishing my two formations on IT and Software Devel
 <br>
 
 ## <div align="center">📋 About Me</div>
-* 🚀 Currently learning: Spring framework
-* 📖 Currently reading "Clean Code"
-* 🤝 Open to collaborating on interesting projects
-* 💬 Let's connect and talk about software development and other interests
-* 🌐 See my portfolio at [AitorSJ.dev](http://www.dev)
-* 📧 You can contact me at [aitorsanchezjimenez16@gmail.com](mailto:aitorsanchezjimenez16@gmail.com)
+* 🎓 **Formation:**  
+  - Microcomputer Systems and Networks (SMR)  
+  - Multiplatform Application Developer (DAM)  
+* 🚀 Currently learning: Spring framework  
+* 📖 Currently reading "Clean Code"  
+* 🤝 Open to collaborating on interesting projects  
+* 💬 Let's connect and talk about software development and other interests  
+* 🌐 See my portfolio at [AitorSJ.dev](http://www.dev)  
+* 📧 You can contact me at [aitorsanchezjimenez16@gmail.com](mailto:aitorsanchezjimenez16@gmail.com)  
 <br><br>
 ## <div align="center">🖥️ Main Stack</div>
+
 
 ### Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
