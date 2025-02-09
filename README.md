@@ -7,34 +7,32 @@ I'm Aitor from Spain. After finishing my two formations on IT and Software Devel
 </h3>
 <br><br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/davidgg-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.davidgg.dev"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/ASANCHEZ-16-DEV/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.dev"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 </div>
 <br>
 
 ## <div align="center">📋 About Me</div>
-* 🚀 Currently learning Spring framework, TypeScript, Angular, and English
+* 🚀 Currently learning: Spring framework
 * 📖 Currently reading "Clean Code"
 * 🤝 Open to collaborating on interesting projects
 * 💬 Let's connect and talk about software development and other interests
-* 🌐 See my portfolio at [DavidGG.dev](http://www.davidgg.dev)
-* 📧 You can contact me at [contact@davidgg.dev](mailto:contact@davidgg.dev)
+* 🌐 See my portfolio at [AitorSJ.dev](http://www.dev)
+* 📧 You can contact me at [aitorsanchezjimenez16@gmail.com](mailto:aitorsanchezjimenez16@gmail.com)
 <br><br>
 ## <div align="center">🖥️ Main Stack</div>
 
 ### Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)](https://www.thymeleaf.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-f7e01d?style=for-the-badge&logo=Javascript&logoColor=black)](https://www.thymeleaf.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 ### Backend
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Spring Data](https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-data)
+
 
 ### Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -50,12 +48,12 @@ I'm Aitor from Spain. After finishing my two formations on IT and Software Devel
 </br>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DavidGG-dev&theme=radical" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=ASANCHEZ-16-DEV&theme=radical" alt="GitHub Trophies">
   </a>
 
   <br><br>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidGG-dev&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ASANCHEZ-16-DEV&theme=radical)](https://git.io/streak-stats)
   <br></br></br>
-  ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidGG-dev&show_icons=true&theme=radical)
+  ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASANCHEZ-16-DEV&show_icons=true&theme=radical)
 </div>
